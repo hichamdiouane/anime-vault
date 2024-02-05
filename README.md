@@ -29,13 +29,10 @@ This project is a web application built with Next.js, Tailwind CSS, and TypeScri
    
 4. Open your browser and navigate to http://localhost:3000.
 
-## Deployment
-This project is deployed using Vercel. The live version can be accessed at [].
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
-  Fork the repository.
-  Create a new branch for your feature: git checkout -b feature-name.
-  Commit your changes: git commit -m 'Add new feature'.
-  Push to your branch: git push origin feature-name.
-  Submit a pull request.
+  - Fork the repository.
+  - Create a new branch for your feature: git checkout -b feature-name.
+  - Commit your changes: git commit -m 'Add new feature'.
+  - Push to your branch: git push origin feature-name.
+  - Submit a pull request.
